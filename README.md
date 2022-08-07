@@ -4,11 +4,12 @@
 
 ## Usage
 
+` Node.js 版本: 14.x`
+
 * change `config.json.sample` to `config.json` and fill in the configuration
 * `brew install yarn` or `npm install --global yarn`
 * `yarn`
 * run `node index`
-
 
 ## 获取authorization配置
 
