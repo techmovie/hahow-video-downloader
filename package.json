@@ -12,8 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.21.1",
-    "node-vtt-to-srt": "^1.0.1"
+    "axios": "^0.21.1"
   },
   "devDependencies": {
     "eslint": "^7.30.0",
