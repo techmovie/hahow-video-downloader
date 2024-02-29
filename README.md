@@ -6,7 +6,6 @@
 
 ![](https://ptpimg.me/xwdh4r.png)
 
-复制图中`authorization:` 后的字符串到配置文件`config.yaml`即可
 
 ## Usage
 
